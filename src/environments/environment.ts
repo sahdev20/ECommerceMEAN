@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false
+  // api_url:"https://ecom-rest-api-2.herokuapp.com/"
 };
 
 /*
